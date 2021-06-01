@@ -1,2 +1,2 @@
 #Flask Template
-## Autors: Valentīns Kaspers
+## Autori: Valentīns Kaspers, Danila Golcovs, Ilja Fatkulins
